@@ -1,10 +1,8 @@
 #include "includes.h"
-#include "Font.h"
 #include "kiero/minhook/include/MinHook.h"
 #include "il2cpp_resolver.hpp"
 #include <iostream>
 #include <intrin.h>
-extern LRESULT ImGui_ImplWin32_WndProcHandler(HWND hWnd, UINT msg, WPARAM wParam, LPARAM lParam);
 
 void CreateConsole() {
 	AllocConsole();
@@ -13,13 +11,6 @@ void CreateConsole() {
 	FILE* f;
 	freopen_s(&f, "CONOUT$", "w", stdout);
 }
-
-Present oPresent;
-HWND window = NULL;
-WNDPROC oWndProc;
-ID3D11Device* pDevice = NULL;
-ID3D11DeviceContext* pContext = NULL;
-ID3D11RenderTargetView* mainRenderTargetView;
 
 void init() {
 	if (IL2CPP::Initialize(true)) {
@@ -39,23 +30,6 @@ void Log(uintptr_t address, const char* name) {
 }
 
 #define DEBUG // undefine in release
-
-void InitImGui()
-{
-	ImGui::CreateContext();
-	ImGuiIO& io = ImGui::GetIO();
-	io.ConfigFlags = ImGuiConfigFlags_NoMouseCursorChange;
-	ImGui_ImplWin32_Init(window);
-	ImGui_ImplDX11_Init(pDevice, pContext);
-}
-
-LRESULT __stdcall WndProc(const HWND hWnd, UINT uMsg, WPARAM wParam, LPARAM lParam) {
-
-	if (ImGui_ImplWin32_WndProcHandler(hWnd, uMsg, wParam, lParam))
-		return true;
-
-	return CallWindowProcA(oWndProc, hWnd, uMsg, wParam, lParam);
-}
 
 void initchair()
 {
