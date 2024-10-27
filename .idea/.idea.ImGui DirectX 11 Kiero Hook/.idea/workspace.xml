@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca572793-4d44-46f1-af85-969b9a0514d2" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Cache.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Cache.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Data.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Data.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Il2cpp_Resolver/Data.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Defines.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Il2cpp_Resolver/Defines.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Functions/Callback.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Functions/Callback.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Functions/Class.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Functions/Class.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Functions/Domain.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Functions/ResolveCall.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Functions/String.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Functions/String.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Functions/Thread.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Functions/Thread.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Includes.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/Camera.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/Camera.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/Camera.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/Component.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/Component.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/Component.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/GameObject.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/GameObject.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/GameObject.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/LayerMask.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/LayerMask.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/LayerMask.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/Object.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/Object.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/Object.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/Rigidbody.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/Rigidbody.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/Rigidbody.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/Transform.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/Transform.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/Transform.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/_TEMPLATE_API.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/_TEMPLATE_API.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/Defines.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/Defines.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/Includes.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/Obfuscators.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/Obfuscators.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/Obfuscators.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/Structures/Engine.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/Structures/Engine.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/Structures/Includes.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/Structures/System_String.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/Structures/System_String.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/Structures/il2cpp.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/Structures/il2cpp.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/Structures/il2cppArray.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/Structures/il2cppArray.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/Structures/il2cppDictionary.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Il2cpp_Resolver/Unity/Structures/il2cppDictionary.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Utils/Helper.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Utils/Helper.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Il2cpp_Resolver/Utils/Helper.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Utils/Joaat.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/Utils/VFunc.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/il2cpp_resolver.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/il2cpp_resolver.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/Il2cpp_Resolver/il2cpp_resolver.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Il2cpp_Resolver/lazyimporter.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImGui DirectX 11 Kiero Hook.sln" beforeDir="false" afterPath="$PROJECT_DIR$/IL2CPP_Cheat.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImGui DirectX 11 Kiero Hook/Callback.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImGui DirectX 11 Kiero Hook/Callback.hpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImGui DirectX 11 Kiero Hook/Dumper.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/ImGui DirectX 11 Kiero Hook/Dumper.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImGui DirectX 11 Kiero Hook/ImGui DirectX 11 Kiero Hook.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ImGui DirectX 11 Kiero Hook/ImGui DirectX 11 Kiero Hook.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImGui DirectX 11 Kiero Hook/Menu.h" beforeDir="false" afterPath="$PROJECT_DIR$/ImGui DirectX 11 Kiero Hook/Menu.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImGui DirectX 11 Kiero Hook/functions.h" beforeDir="false" afterPath="$PROJECT_DIR$/ImGui DirectX 11 Kiero Hook/functions.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ImGui DirectX 11 Kiero Hook/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/ImGui DirectX 11 Kiero Hook/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PetrSeifert&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/IdolTheDev/Il2CPP-Base.git&quot;,
+    &quot;accountId&quot;: &quot;49a83ac0-4f50-4e6e-92c7-088e4c95381f&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://C:/Program Files (x86)/Windows Kits/10/Include/10.0.26100.0/um/consoleapi.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Il2cpp_Resolver/Unity/API/GameObject.hpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ImGui DirectX 11 Kiero Hook/Dumper.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ImGui DirectX 11 Kiero Hook/Dumper.hpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ImGui DirectX 11 Kiero Hook/tahoma.h" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2o1PmNFU8mdZhdr5tBUvW7TQqkf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "E:/Programming/IL2CPP-Cheat/ImGui DirectX 11 Kiero Hook.sln",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca572793-4d44-46f1-af85-969b9a0514d2" name="Changes" comment="" />
+      <created>1730034267634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730034267634</updated>
+      <workItem from="1730034268940" duration="4746000" />
+      <workItem from="1730039551893" duration="4096000" />
+      <workItem from="1730043924942" duration="199000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/ImGui DirectX 11 Kiero Hook/Menu.h</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

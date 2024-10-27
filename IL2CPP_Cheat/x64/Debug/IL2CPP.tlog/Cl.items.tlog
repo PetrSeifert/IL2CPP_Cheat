@@ -1,0 +1,33 @@
+E:\Programming\Il2CPP-Base\Il2cpp_Resolver\Cache.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\Cache.obj
+E:\Programming\Il2CPP-Base\Il2cpp_Resolver\Data.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\Data.obj
+E:\Programming\Il2CPP-Base\Il2cpp_Resolver\Functions\Callback.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\Callback.obj
+E:\Programming\Il2CPP-Base\Il2cpp_Resolver\Functions\Class.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\Class.obj
+E:\Programming\Il2CPP-Base\Il2cpp_Resolver\Functions\String.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\String.obj
+E:\Programming\Il2CPP-Base\Il2cpp_Resolver\Functions\Thread.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\Thread.obj
+E:\Programming\Il2CPP-Base\Il2cpp_Resolver\il2cpp_resolver.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\il2cpp_resolver.obj
+E:\Programming\Il2CPP-Base\Il2cpp_Resolver\Unity\API\Camera.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\Camera.obj
+E:\Programming\Il2CPP-Base\Il2cpp_Resolver\Unity\API\Component.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\Component.obj
+E:\Programming\Il2CPP-Base\Il2cpp_Resolver\Unity\API\GameObject.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\GameObject.obj
+E:\Programming\Il2CPP-Base\Il2cpp_Resolver\Unity\API\LayerMask.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\LayerMask.obj
+E:\Programming\Il2CPP-Base\Il2cpp_Resolver\Unity\API\Object.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\Object.obj
+E:\Programming\Il2CPP-Base\Il2cpp_Resolver\Unity\API\Rigidbody.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\Rigidbody.obj
+E:\Programming\Il2CPP-Base\Il2cpp_Resolver\Unity\API\Transform.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\Transform.obj
+E:\Programming\Il2CPP-Base\Il2cpp_Resolver\Unity\API\_TEMPLATE_API.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\_TEMPLATE_API.obj
+E:\Programming\Il2CPP-Base\Il2cpp_Resolver\Unity\Obfuscators.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\Obfuscators.obj
+E:\Programming\Il2CPP-Base\Il2cpp_Resolver\Utils\Helper.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\Helper.obj
+E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\Callback.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\Callback.obj
+E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\Dumper.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\Dumper.obj
+E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\imgui\imgui.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\imgui.obj
+E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\imgui\imgui_demo.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\imgui_demo.obj
+E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\imgui\imgui_draw.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\imgui_draw.obj
+E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\imgui\imgui_impl_dx11.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\imgui_impl_dx11.obj
+E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\imgui\imgui_impl_win32.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\imgui_impl_win32.obj
+E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\imgui\imgui_widgets.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\imgui_widgets.obj
+E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\kiero\kiero.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\kiero.obj
+E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\kiero\minhook\src\buffer.c;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\buffer.obj
+E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\kiero\minhook\src\hde\hde32.c;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\hde32.obj
+E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\kiero\minhook\src\hde\hde64.c;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\hde64.obj
+E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\kiero\minhook\src\hook.c;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\hook.obj
+E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\kiero\minhook\src\trampoline.c;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\trampoline.obj
+E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\main.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\main.obj
+E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\vec2.cpp;E:\Programming\Il2CPP-Base\ImGui DirectX 11 Kiero Hook\x64\Debug\vec2.obj
